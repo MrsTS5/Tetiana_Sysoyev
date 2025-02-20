@@ -11,7 +11,7 @@ About me
   
 ### 👩‍💻 QA Automation Engineer | JavaScript Enthusiast | Cypress Tester
 
-I'm a detail-oriented QA Automation Engineer with over **5 years of experience** in **quality assurance, automation testing, and improving user experiences**. I specialize in **building robust test automation frameworks** and ensuring that software meets the highest quality standards.
+I'm a detail-oriented QA Automation Engineer with over **4+ years of experience** in **quality assurance, automation testing, and improving user experiences**. I specialize in **building robust test automation frameworks** and ensuring that software meets the highest quality standards.
 
 - 🔭 I’m currently working on projects focused on **API testing, UI testing, and Cypress-based automation in JavaScript**.
 - 🌱 Learning more about **Test Automation Frameworks** and **CI/CD pipelines**.
