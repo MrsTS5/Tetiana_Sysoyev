@@ -1,5 +1,4 @@
 # Tetiana_Sysoyev
-About me
 
 ![Tetiana Sysoyev - QA Automation Engineer](https://raw.githubusercontent.com/MrsTS5/Tetiana_Sysoyev/main/github%20Banner.png)
 
