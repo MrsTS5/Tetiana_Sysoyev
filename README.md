@@ -1,7 +1,7 @@
 # Tetiana_Sysoyev
 About me
 
-![GitHub](https://github.com/user-attachments/assets/9746c319-70a5-4d5b-9a50-db7ad170ba87)
+![Tetiana Sysoyev - QA Automation Engineer](https://raw.githubusercontent.com/MrsTS5/Tetiana_Sysoyev/main/github%20Banner.png)
 
 # 👋 Hi, I'm Tetiana!
 
