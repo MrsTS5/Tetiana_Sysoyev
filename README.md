@@ -16,7 +16,7 @@ I'm a detail-oriented QA Automation Engineer with over **4+ years of experience*
 - 🌱 Learning more about **Test Automation Frameworks** and **CI/CD pipelines**.
 - 💬 Ask me about **API Testing, Cypress Automation, Zephyr Test Management, Qase.io, or JavaScript Automation**.
 - 📫 Reach me: [sysoyev.tetiana@gmail.com](mailto:sysoyev.tetiana@gmail.com)
-- ⚡ Fun fact: I enjoy reading about psychology & tech trends—because even bugs have behavior patterns!
+- ⚡ Fun fact: I enjoy reading about psychology & tech trends—because even bugs have behavior patterns!😂
 
 ---
 
